@@ -1,0 +1,9 @@
+.idea
+/web/html
+/web/index.html
+/caches/error_log.php
+/caches/caches_*
+
+# 安装后删除以下行
+/caches/configs
+/caches/install.lock

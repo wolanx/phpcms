@@ -1,0 +1,60 @@
+[
+    {
+        "name": "zx5435/phar-test",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://gitee.com/zx5435/phar-test.git",
+            "reference": "6d844fbf1cfcb09eafe7beb17fe60d28c58eb75a"
+        },
+        "time": "2017-12-19T03:48:57+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "phar\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT License"
+        ],
+        "authors": [
+            {
+                "name": "zhaoyujie",
+                "email": "825407762@qq.com"
+            }
+        ],
+        "description": "description zx5435/phar-test"
+    },
+    {
+        "name": "zx5435/phpcms",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://gitee.com/zx5435/phpcms",
+            "reference": "8621040884c63bfd0bbe2dbbe9443f8957cc52ad"
+        },
+        "time": "2017-12-19T05:52:01+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "phpcms\\": "phpcms/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT License"
+        ],
+        "authors": [
+            {
+                "name": "zhaoyujie",
+                "email": "825407762@qq.com"
+            }
+        ],
+        "description": "Here is zx5435/phpcms"
+    }
+]

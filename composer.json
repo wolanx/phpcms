@@ -1,0 +1,5 @@
+{
+    "require-dev":{
+        "zx5435/phpcms":"dev-master"
+    }
+}
